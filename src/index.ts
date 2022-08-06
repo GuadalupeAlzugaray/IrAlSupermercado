@@ -1,0 +1,13 @@
+console.log("-ir al supermercado-");
+console.log("paso 1: salir de mi casa");
+console.log("paso 2: subirme al auto");
+console.log("paso 3: dirigirme al supermercado");
+console.log("paso 4: agarrar un carrito de compras");
+console.log("paso 5: elegir los productos");
+console.log("paso 6: dirigirme a la cola de la caja");
+console.log("paso 7: pagar en caja");
+console.log("paso 8: recibir el vuelto y ticket");
+console.log("paso 9: embolsar todos los productos");
+console.log("paso 10: cargar las bolsas en el auto");
+console.log("paso 11: volver a mi casa");
+console.log("paso 12: guardar los productos");
